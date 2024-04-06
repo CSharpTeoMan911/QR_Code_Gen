@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0y77ZAgVezmdLjOLNKs3cWHmiqOrjuvwKvIsOYEHorFP/bROvYQhC46mdJCe/HWTcPZm74eJHlox5gN4pVrhDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teodo\\source\\repos\\QR_Code_Gen\\QR_Code_Gen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teodo\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
