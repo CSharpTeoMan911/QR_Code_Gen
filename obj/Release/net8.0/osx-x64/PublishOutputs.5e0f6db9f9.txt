@@ -1,0 +1,6 @@
+C:\Users\teodo\source\repos\QR_Code_Gen\bin\Release\net8.0\osx-x64\publish\QR_Code_Gen
+C:\Users\teodo\source\repos\QR_Code_Gen\bin\Release\net8.0\osx-x64\publish\QR_Code_Gen.dll
+C:\Users\teodo\source\repos\QR_Code_Gen\bin\Release\net8.0\osx-x64\publish\QR_Code_Gen.deps.json
+C:\Users\teodo\source\repos\QR_Code_Gen\bin\Release\net8.0\osx-x64\publish\QR_Code_Gen.runtimeconfig.json
+C:\Users\teodo\source\repos\QR_Code_Gen\bin\Release\net8.0\osx-x64\publish\QR_Code_Gen.pdb
+C:\Users\teodo\source\repos\QR_Code_Gen\bin\Release\net8.0\osx-x64\publish\QRCoder.dll

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0y77ZAgVezmdLjOLNKs3cWHmiqOrjuvwKvIsOYEHorFP/bROvYQhC46mdJCe/HWTcPZm74eJHlox5gN4pVrhDw==",
+  "dgSpecHash": "FFiC1Y1thNkHDy15+ADmjV6hRMbEjqYO5bmUTlTF5ZuTIE5aJzv7kG2nxxVClc3pvfqtCSvj99hdDgFwGtG6iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\teodo\\source\\repos\\QR_Code_Gen\\QR_Code_Gen.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\teodo\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+    "C:\\Users\\teodo\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\teodo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\8.0.2\\microsoft.netcore.app.runtime.linux-arm.8.0.2.nupkg.sha512",
+    "C:\\Users\\teodo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\8.0.2\\microsoft.aspnetcore.app.runtime.linux-arm.8.0.2.nupkg.sha512",
+    "C:\\Users\\teodo\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\8.0.2\\microsoft.netcore.app.host.linux-arm.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }
